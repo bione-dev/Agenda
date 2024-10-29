@@ -61,4 +61,3 @@ A classe `Main` contém o método principal que executa o programa e interage co
 
 --- 
 
-Se precisar de mais ajustes ou detalhes, é só avisar!
